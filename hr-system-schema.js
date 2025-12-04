@@ -1,5 +1,4 @@
 /**
- * HR MANAGEMENT SYSTEM - MONGODB SCHEMA
  * Company: Core Edge Solutions
  * 
  * Collections:
